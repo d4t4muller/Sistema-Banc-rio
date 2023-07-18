@@ -4,10 +4,6 @@
 Bem vindo ao sistema bancário mais seguro e estável da atualidade
 
 
-## Demonstração
-
-https://giphy.com/gifs/xYEYXCt93QZTP5adXQ
-
 
 ## Funcionalidades
 
